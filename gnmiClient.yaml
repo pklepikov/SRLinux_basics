@@ -3,11 +3,14 @@ username: admin
 password: admin
 port: 57400
 timeout: 10s
-tls-cert: /root/ca/certs/ca.cert.pem
-tls-ca: /root/ca/certs/ca.cert.pem
+tls-cert: certs/server.cert.pem
+tls-ca: certs/ca.cert.pem
 skip-verify: true
 encoding: json_ietf
-debug: true
+debug: false 
+#debug: true
 no-prefix: true
 targets:
   138.203.15.87
+  138.203.15.89
+
