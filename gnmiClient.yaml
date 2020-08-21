@@ -1,0 +1,13 @@
+# Inspired by https://github.com/karimra/gnmic/blob/master/config.yaml
+username: admin
+password: admin
+port: 57400
+timeout: 10s
+tls-cert: /root/ca/certs/ca.cert.pem
+tls-ca: /root/ca/certs/ca.cert.pem
+skip-verify: true
+encoding: json_ietf
+debug: true
+no-prefix: true
+targets:
+  138.203.15.87
