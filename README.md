@@ -85,5 +85,6 @@
         docker exec -ti $srl_b ethtool --offload $srl_b_int rx off tx off
     ```
 # Configuration
-    - [DUT_1:Assign IPv4 to interface 1/1.0](config/srl_dut_1.cfg)
-    - [DUT_2:Assign IPv4 to interface 1/1.0](config/srl_dut_2.cfg)
+- Interface IP
+    - [DUT_1: Assign IPv4 to interface 1/1.0](./config/srl_dut_1.cfg)
+    - [DUT_2: Assign IPv4 to interface 1/1.0](./config/srl_dut_2.cfg)
