@@ -1,6 +1,16 @@
 # Basic SRL demo
 ## Run a standalone SRL container.
 
+0. Requirements
+    - OS environment (min. system requirements):
+        - Centos 8.x or Centos 7.x system with min. Kernel 4.17
+        - 8 GB RAM
+        - 8 core CPU
+    - Software
+        - Docker CE installed, minimum version 18.09:
+        - Python version 3.6 or higher
+        - license key file available 
+        - srl container image available
 1. Copy the SRL inmage X.Y.Z-N.tar.xz file into Project directory on Centos 8 Host Machine.
     - Out of scope
 2. Copy the license.key into Project directory.
