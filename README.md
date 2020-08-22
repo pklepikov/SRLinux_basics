@@ -1,4 +1,4 @@
-# Basic SRL demo
+# Basic Nokia SRLinux demo
 ## Run a standalone SRL container.
 
 0. Requirements
