@@ -1,5 +1,7 @@
+#! /bin/bash
+
 # Copy the SRL inmage X.Y.Z-N.tar.xz file into Project directory on Centos 8 Host Machine.
-    #TBD 
+    # TBD 
 
 # Copy the license.key into Project directory.
     # TBD

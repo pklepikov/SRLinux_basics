@@ -1,3 +1,5 @@
+#! /bin/bash
+
 source srl.env
 
 # Create DIR

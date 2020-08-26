@@ -1,3 +1,5 @@
+#! /bin/bash
+
 source srl.env
 
 # Create VETH connection between $srl_a and $srl_b containers

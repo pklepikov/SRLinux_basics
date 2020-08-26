@@ -1,5 +1,6 @@
-source srl.env
+#! /bin/bash
 
+source srl.env
 srl_name=$srl_a
 
 # Create SRL container
